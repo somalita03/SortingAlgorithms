@@ -21,7 +21,7 @@ Sorting is one of the most fundamental operations in computer science, used in s
 
 🎨 CSS – Beautiful UI design, responsive layout, and smooth transitions.
 
-🎲 JS - an image slider (carousel) with navigation controls and touch support
+🎲 JS – an image slider (carousel) with navigation controls and touch support
 
 📥 Getting Started
 
@@ -44,11 +44,17 @@ cd image-slider-with-multi-control-nothing4us/dist
 Simply open index2.html in your browser!
 
 🖼️ Screenshots
-(Add screenshots of your UI here to showcase your work!)
+![image](https://github.com/user-attachments/assets/daf327d1-c1eb-4929-8b94-4770f2d95b6d)
+![image](https://github.com/user-attachments/assets/f81cb53d-1c29-4f1b-b815-ce5ec8cc6a81)
+![image](https://github.com/user-attachments/assets/b17713e9-6936-439a-80d0-bd6a005da786)
+
 
 🎯 Why This Project?
+
 📌 Many resources provide sorting logic but lack a structured and user-friendly interface.
+
 📌 This project is UI-focused, making it easier to access and learn about different sorting techniques in one place.
+
 📌 Ideal for students, educators, and developers who want a clean and organized sorting reference.
 
 🔮 Future Enhancements
