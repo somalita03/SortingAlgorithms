@@ -24,18 +24,22 @@ Sorting is one of the most fundamental operations in computer science, used in s
 🎲 JS - an image slider (carousel) with navigation controls and touch support
 
 📥 Getting Started
+
 1️⃣ Clone the repository
 
 bash
 Copy
 Edit
 git clone [https://github.com/somalita03/SortingAlgorithms.git]
+
 2️⃣ Open the project folder
 
 bash
 Copy
 Edit
-cd sorting-algorithms-ui
+cd image-slider-with-multi-control-nothing4us/dist
+
+
 3️⃣ Run the project
 Simply open index2.html in your browser!
 
